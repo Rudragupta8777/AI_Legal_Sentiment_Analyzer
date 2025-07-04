@@ -46,7 +46,7 @@ ai-legal-sentiment-analyzer/
 │   ├── Negative
 |   ├── Neutral
 │   └── Positive
-├── README.md               # This file
+├── README.md                 # This file
 
 ````
 
