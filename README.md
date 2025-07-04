@@ -176,5 +176,3 @@ If you face any issues:
 
 * Project submitted as part of the **IBM WatsonX GENAI Final Certification**
 * Helping legal professionals **understand complex legal texts** quickly using **GenAI** 🚀
-
-```
