@@ -1,0 +1,5 @@
+Text:
+The defendant was sentenced to ten years in prison.
+
+Summary:
+The defendant was found guilty of DUI.

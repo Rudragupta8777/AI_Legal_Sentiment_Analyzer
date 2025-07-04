@@ -1,0 +1,5 @@
+Text:
+The court found the company guilty of fraud.
+
+Summary:
+A company sued a university for allegedly misleading students about the cost of tuition.

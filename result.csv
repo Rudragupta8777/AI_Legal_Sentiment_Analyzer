@@ -1,0 +1,201 @@
+ID,Text,Sentiment,Summary,Keywords,Confidence (%),Analysis Time (s)
+1,The defendant was sentenced to ten years in prison.,Negative,The defendant was found guilty of DUI.,defendant,94.73,1.61
+2,The court found the company guilty of fraud.,Negative,The court found the company guilty of fraud.,None,92.5,1.4
+3,The judge praised the cooperation between the disputing companies.,Positive,The judge praised the cooperation between the disputing companies.,None,96.82,2.41
+4,The judge dismissed the defendant's appeal.,Positive,The judge dismissed the defendant's appeal.,defendant,94.33,1.46
+5,The court acknowledged the presence of all involved parties.,Positive,The court acknowledged the presence of all involved parties.,None,88.56,1.41
+6,The defendant was acquitted of all charges.,Neutral,The defendant was acquitted of all charges.,defendant,89.37,1.55
+7,The defendant was sentenced to ten years in prison.,Negative,The defendant was sentenced to ten years in prison.,defendant,93.06,1.46
+8,The defendant was sentenced to ten years in prison.,Neutral,The defendant pleaded guilty to the charges.,defendant,87.44,1.39
+9,The lawsuit alleged serious contractual breaches.,Negative,The lawsuit alleged serious contractual breaches.,None,88.25,2.27
+10,The defendant was sentenced to ten years in prison.,Neutral,The defendant was sentenced to ten years in prison.,defendant,86.28,1.42
+11,The defendant was sentenced to ten years in prison.,Negative,The defendant was sentenced to ten years in prison.,defendant,84.89,1.46
+12,A contract was signed for mutual legal cooperation.,Positive,The plaintiff was a lawyer.,contract,92.2,1.29
+13,The defendant was sentenced to ten years in prison.,Neutral,The defendant was sentenced to ten years in prison.,defendant,84.77,1.38
+14,A heavy fine was imposed on the violating party.,Neutral,The court ruled that the police were not acting properly when they searched the car.,None,86.3,1.48
+15,A heavy fine was imposed on the violating party.,Positive,The court found the plaintiffs in violation of the anti-discrimination law.,None,95.55,1.53
+16,The court ruled in favor of the defendant with compensation granted.,Positive,The court ruled in favor of the defendant with compensation granted.,defendant,95.53,2.37
+17,A heavy fine was imposed on the violating party.,Positive,A heavy fine was imposed on the violating party.,None,91.31,1.41
+18,A heavy fine was imposed on the violating party.,Neutral,A heavy fine was imposed on the violating party.,None,87.9,1.41
+19,The lawsuit alleged serious contractual breaches.,Negative,The lawsuit alleged serious contractual breaches.,None,97.53,1.44
+20,A heavy fine was imposed on the violating party.,Positive,The court found that the defendant had not complied with the terms of the contract.,None,91.77,1.53
+21,Both parties submitted their affidavits as required.,Positive,The judge ordered the parties to submit affidavits.,None,89.62,1.43
+22,Both parties submitted their affidavits as required.,Neutral,A judge ordered the parties to submit their affidavits.,None,97.54,1.5
+23,A heavy fine was imposed on the violating party.,Positive,A heavy fine was imposed on the violating party.,None,84.4,1.35
+24,The court found the company guilty of fraud.,Negative,The court found the company guilty of fraud.,None,92.39,1.33
+25,The lawsuit alleged serious contractual breaches.,Neutral,The lawsuit alleged serious contractual breaches.,None,86.94,1.34
+26,The judge dismissed the defendant's appeal.,Negative,The defendant was convicted.,defendant,95.45,1.28
+27,A heavy fine was imposed on the violating party.,Positive,The court ruled that the defendant had no right to the copyrighted material.,None,95.45,1.51
+28,The defendant was sentenced to ten years in prison.,Neutral,The defendant was sentenced to ten years in prison.,defendant,94.84,1.42
+29,The defendant was acquitted of all charges.,Neutral,The defendant was acquitted of all charges.,defendant,86.1,1.4
+30,The court ruled in favor of the defendant with compensation granted.,Positive,The court ruled in favor of the defendant with compensation granted.,defendant,90.99,2.36
+31,A contract was signed for mutual legal cooperation.,Positive,The court found that the contract was valid.,contract,88.65,1.4
+32,A successful settlement was reached between both parties.,Positive,The plaintiff was a student in the school district.,settlement,94.37,1.38
+33,The defendant was sentenced to ten years in prison.,Negative,The defendant was sentenced to ten years in prison.,defendant,90.23,2.27
+34,A successful settlement was reached between both parties.,Neutral,A successful settlement was reached between both parties.,settlement,87.33,1.38
+35,The judge dismissed the defendant's appeal.,Negative,The defendant was convicted of a crime.,defendant,91.05,1.49
+36,The defendant was sentenced to ten years in prison.,Negative,The defendant was sentenced to ten years in prison.,defendant,85.53,1.36
+37,The court ruled in favor of the defendant with compensation granted.,Positive,A man sued his wife for negligence.,defendant,96.5,1.31
+38,The case was resolved amicably with no charges pressed.,Positive,A New York jury found an American man guilty of raping a woman while she was in a coma.,None,88.12,1.65
+39,The judge praised the cooperation between the disputing companies.,Positive,A judge praised the cooperation between the disputing companies.,None,87.19,1.32
+40,The court found the company guilty of fraud.,Negative,The court found the company guilty of fraud.,None,89.04,1.41
+41,The defendant was sentenced to ten years in prison.,Neutral,The defendant was sentenced to ten years in prison.,defendant,95.26,1.47
+42,The court found the company guilty of fraud.,Negative,The court found the company guilty of fraud.,None,87.2,1.34
+43,The judge reviewed the evidence submitted.,Neutral,The judge found the defendant guilty.,evidence,84.91,2.22
+44,The judge dismissed the defendant's appeal.,Negative,The judge dismissed the defendant's appeal.,defendant,85.33,1.56
+45,The court found the company guilty of fraud.,Negative,A court ruled that a company was guilty of a fraud.,None,89.18,1.42
+46,The judge dismissed the defendant's appeal.,Neutral,The defendant was convicted.,defendant,86.46,2.36
+47,The defendant was sentenced to ten years in prison.,Negative,The defendant was sentenced to ten years in prison.,defendant,84.97,2.35
+48,A heavy fine was imposed on the violating party.,Positive,The court found the defendant liable because of the breach of the contract.,None,86.47,2.42
+49,The defendant was sentenced to ten years in prison.,Negative,The defendant was charged with possession of a controlled substance.,defendant,97.0,2.34
+50,The lawsuit alleged serious contractual breaches.,Neutral,The lawsuit alleged serious contractual breaches.,None,93.59,1.31
+51,The lawsuit alleged serious contractual breaches.,Neutral,An alleged breach of contract lawsuit against a New York television station is finally settled.,None,91.44,1.56
+52,The lawsuit alleged serious contractual breaches.,Positive,The lawsuit alleged serious contractual breaches.,None,97.4,1.26
+53,The hearing was postponed to a later date.,Neutral,The hearing was postponed to a later date.,None,90.83,1.43
+54,The judge reviewed the evidence submitted.,Neutral,The judge ruled the case was not admissible.,evidence,94.46,1.46
+55,The lawsuit alleged serious contractual breaches.,Neutral,The lawsuit alleged serious contractual breaches.,None,94.69,2.37
+56,A successful settlement was reached between both parties.,Positive,The plaintiff had alleged that the defendants had breached the contract.,settlement,95.92,1.47
+57,Both parties submitted their affidavits as required.,Neutral,Text: Both parties submitted their affidavits as required.,None,89.18,2.46
+58,The hearing was postponed to a later date.,Neutral,The legal case was postponed to a later date.,None,92.6,1.46
+59,The lawsuit alleged serious contractual breaches.,Negative,The lawsuit alleged serious contractual breaches.,None,91.92,1.48
+60,The court acknowledged the presence of all involved parties.,Neutral,The court acknowledged the presence of all involved parties.,None,95.04,1.47
+61,The defendant was acquitted of all charges.,Neutral,The defendant was acquitted of all charges.,defendant,93.25,2.34
+62,The court ruled in favor of the defendant with compensation granted.,Neutral,The defendant was sued for a particular injury.,defendant,91.8,1.47
+63,The judge reviewed the evidence submitted.,Neutral,The judge ruled on the case.,evidence,87.63,1.31
+64,A contract was signed for mutual legal cooperation.,Positive,A legal case was filed.,contract,90.66,1.32
+65,The case was resolved amicably with no charges pressed.,Positive,The legal case was resolved amicably with no charges pressed.,None,87.06,1.47
+66,The judge dismissed the defendant's appeal.,Negative,The defendant was convicted of murder.,defendant,91.28,1.39
+67,A contract was signed for mutual legal cooperation.,Positive,A contract was signed for mutual legal cooperation.,contract,90.57,1.37
+68,A successful settlement was reached between both parties.,Positive,A successful settlement was reached between both parties.,settlement,92.22,1.36
+69,The defendant was sentenced to ten years in prison.,Neutral,The defendant was sentenced to ten years in prison.,defendant,92.74,1.41
+70,Both parties submitted their affidavits as required.,Neutral,The court found that the defendants had not complied with the statute of limitations.,None,90.81,1.54
+71,The case was resolved amicably with no charges pressed.,Neutral,The case was resolved amicably with no charges pressed.,None,92.53,1.38
+72,The case was resolved amicably with no charges pressed.,Positive,The case was resolved amicably with no charges pressed.,None,92.2,1.37
+73,The judge reviewed the evidence submitted.,Neutral,The judge ruled in favor of the plaintiff.,evidence,87.46,1.38
+74,The case was resolved amicably with no charges pressed.,Positive,The case was resolved amicably with no charges pressed.,None,93.35,2.31
+75,The court found the company guilty of fraud.,Negative,The court found the company guilty of fraud.,None,85.38,2.23
+76,The court ruled in favor of the defendant with compensation granted.,Positive,The court ruled in favor of the defendant with compensation granted.,defendant,87.82,2.37
+77,A contract was signed for mutual legal cooperation.,Neutral,A contract was signed for mutual legal cooperation.,contract,91.77,1.38
+78,A contract was signed for mutual legal cooperation.,Positive,A contract was signed for mutual legal cooperation.,contract,87.16,2.37
+79,The defendant was sentenced to ten years in prison.,Negative,The defendant was sentenced to ten years in prison.,defendant,96.19,1.46
+80,Both parties submitted their affidavits as required.,Neutral,Text: Both parties submitted their affidavits as required.,None,95.53,1.51
+81,The lawsuit alleged serious contractual breaches.,Negative,A company sued a law firm over a lawsuit alleged serious contractual breaches.,None,89.29,1.55
+82,The court ruled in favor of the defendant with compensation granted.,Neutral,The defendant had a job as a taxi driver.,defendant,94.49,2.35
+83,The hearing was postponed to a later date.,Neutral,The legal case was postponed to a later date.,None,95.66,1.53
+84,The defendant was sentenced to ten years in prison.,Negative,The defendant lied about his age in order to avoid paying child support.,defendant,85.42,1.48
+85,The case was resolved amicably with no charges pressed.,Neutral,The case was resolved amicably with no charges pressed.,None,92.15,1.45
+86,The court found the company guilty of fraud.,Negative,The court found the company guilty of fraud.,None,93.2,1.31
+87,The judge praised the cooperation between the disputing companies.,Positive,The judge praised the cooperation between the disputing companies.,None,84.84,3.15
+88,The defendant was acquitted of all charges.,Neutral,The defendant was acquitted of all charges.,defendant,96.89,2.17
+89,A successful settlement was reached between both parties.,Neutral,A successful settlement was reached between both parties.,settlement,96.92,1.37
+90,The hearing was postponed to a later date.,Neutral,The hearing was postponed to a later date.,None,96.13,1.42
+91,The court ruled in favor of the defendant with compensation granted.,Positive,The court ruled in favor of the defendant with compensation granted.,defendant,96.54,1.39
+92,A contract was signed for mutual legal cooperation.,Positive,A contract was signed for mutual legal cooperation.,contract,85.52,1.34
+93,A heavy fine was imposed on the violating party.,Positive,The court found that the plaintiff had a valid claim for copyright infringement.,None,93.09,1.49
+94,The lawsuit alleged serious contractual breaches.,Negative,The lawsuit alleged serious contractual breaches.,None,95.04,1.39
+95,The judge dismissed the defendant's appeal.,Neutral,The defendant was convicted.,defendant,92.58,1.3
+96,The judge dismissed the defendant's appeal.,Negative,The judge dismissed the defendant's appeal.,defendant,87.5,2.34
+97,The case was resolved amicably with no charges pressed.,Positive,The case was resolved amicably with no charges pressed.,None,92.81,1.42
+98,The judge praised the cooperation between the disputing companies.,Neutral,The judge praised the cooperation between the disputing companies.,None,86.66,1.38
+99,The court acknowledged the presence of all involved parties.,Neutral,The court acknowledged the presence of all involved parties.,None,85.74,2.41
+100,The court acknowledged the presence of all involved parties.,Neutral,The court acknowledged the presence of all involved parties.,None,92.92,1.43
+101,A heavy fine was imposed on the violating party.,Positive,A heavy fine was imposed on the violating party.,None,85.49,1.38
+102,The lawsuit alleged serious contractual breaches.,Neutral,A lawsuit alleged serious contractual breaches against a large company.,None,96.35,2.33
+103,The defendant was sentenced to ten years in prison.,Neutral,The defendant was sentenced to ten years in prison.,defendant,87.69,1.44
+104,The lawsuit alleged serious contractual breaches.,Neutral,The lawsuit alleged serious contractual breaches.,None,97.8,1.28
+105,The defendant was acquitted of all charges.,Positive,The defendant was acquitted of all charges.,defendant,94.13,2.32
+106,The judge dismissed the defendant's appeal.,Neutral,The judge dismissed the defendant's appeal.,defendant,87.08,1.42
+107,The judge dismissed the defendant's appeal.,Neutral,The judge dismissed the defendant's appeal.,defendant,91.94,1.41
+108,Both parties submitted their affidavits as required.,Neutral,The court ordered the plaintiff to pay the plaintiff's attorneys fees and costs.,None,92.93,1.52
+109,A heavy fine was imposed on the violating party.,Positive,A heavy fine was imposed on the violating party.,None,94.34,2.26
+110,A successful settlement was reached between both parties.,Positive,The legal case was settled.,settlement,94.55,1.25
+111,The lawsuit alleged serious contractual breaches.,Negative,The lawsuit alleged serious contractual breaches.,None,97.78,2.6
+112,The hearing was postponed to a later date.,Neutral,The court was set to hear the case of a woman who was accused of raping her boyfriend in the Philippines.,None,94.18,1.59
+113,The judge reviewed the evidence submitted.,Positive,The plaintiff was unable to prove her case.,evidence,87.59,2.28
+114,The case was resolved amicably with no charges pressed.,Neutral,The case was resolved amicably with no charges pressed.,None,87.89,1.54
+115,The court found the company guilty of fraud.,Negative,A company sued a university for allegedly misleading students about the cost of tuition.,None,89.1,1.51
+116,The judge reviewed the evidence submitted.,Neutral,The judge ruled in favor of the defendant.,evidence,92.86,1.44
+117,The case was resolved amicably with no charges pressed.,Positive,The case was resolved amicably with no charges pressed.,None,97.97,2.31
+118,The court ruled in favor of the defendant with compensation granted.,Neutral,The court ruled in favor of the defendant with compensation granted.,defendant,88.41,1.56
+119,The judge praised the cooperation between the disputing companies.,Positive,The judge praised the cooperation between the disputing companies.,None,97.63,1.4
+120,The defendant was sentenced to ten years in prison.,Neutral,The defendant was sentenced to ten years in prison.,defendant,91.43,1.41
+121,The hearing was postponed to a later date.,Neutral,The legal case was postponed to a later date.,None,87.65,1.53
+122,The court ruled in favor of the defendant with compensation granted.,Positive,The court ruled in favor of the defendant with compensation granted.,defendant,94.67,2.33
+123,The defendant was sentenced to ten years in prison.,Neutral,The defendant was sentenced to ten years in prison.,defendant,95.73,1.43
+124,The court ruled in favor of the defendant with compensation granted.,Positive,"The defendant sued the plaintiff, claiming that he had been injured in a motorcycle accident.",defendant,96.36,1.52
+125,The judge reviewed the evidence submitted.,Neutral,The judge decided the case.,evidence,85.79,1.34
+126,The lawsuit alleged serious contractual breaches.,Neutral,A lawsuit alleged serious contractual breaches.,None,90.69,2.28
+127,The judge reviewed the evidence submitted.,Neutral,The judge found the defendant guilty.,evidence,93.53,1.38
+128,A successful settlement was reached between both parties.,Positive,A successful settlement was reached between both parties.,settlement,90.92,1.34
+129,The judge dismissed the defendant's appeal.,Negative,The judge dismissed the defendant's appeal.,defendant,95.08,1.31
+130,A successful settlement was reached between both parties.,Positive,A successful settlement was reached between both parties.,settlement,96.56,1.39
+131,The lawsuit alleged serious contractual breaches.,Negative,The lawsuit alleged serious contractual breaches.,None,95.23,2.27
+132,The case was resolved amicably with no charges pressed.,Positive,The legal case was resolved amicably with no charges pressed.,None,91.65,1.48
+133,The court ruled in favor of the defendant with compensation granted.,Neutral,The court ruled in favor of the defendant with compensation granted.,defendant,85.28,1.5
+134,The court acknowledged the presence of all involved parties.,Neutral,The court acknowledged the presence of all involved parties.,None,91.48,1.35
+135,A contract was signed for mutual legal cooperation.,Positive,A contract was signed for mutual legal cooperation.,contract,86.48,1.37
+136,A heavy fine was imposed on the violating party.,Positive,An arbitration clause was violated in a contract.,None,88.83,1.36
+137,The defendant was acquitted of all charges.,Positive,The defendant was acquitted of all charges.,defendant,89.96,1.42
+138,The judge praised the cooperation between the disputing companies.,Positive,A judge has approved a settlement between two companies that were disputing a contract.,None,87.08,2.42
+139,The judge reviewed the evidence submitted.,Neutral,The judge decided the case.,evidence,97.86,1.34
+140,A successful settlement was reached between both parties.,Positive,The legal case was settled.,settlement,91.6,1.33
+141,The court ruled in favor of the defendant with compensation granted.,Positive,The defendant sued the plaintiff for negligence.,defendant,87.88,1.39
+142,The court ruled in favor of the defendant with compensation granted.,Neutral,The plaintiff was a member of the armed forces.,defendant,95.9,1.45
+143,The lawsuit alleged serious contractual breaches.,Positive,The lawsuit alleged serious contractual breaches.,None,84.17,1.49
+144,A successful settlement was reached between both parties.,Positive,The plaintiffs argued that the defendants had not complied with their rights under the First Amendment.,settlement,97.18,1.72
+145,A successful settlement was reached between both parties.,Positive,Text was sued in the United States District Court for the District of Columbia on the grounds that it was an unlicensed and unauthorized reproduction of the work of another person.,settlement,96.87,1.78
+146,The defendant was acquitted of all charges.,Positive,The defendant was acquitted of all charges.,defendant,92.37,1.46
+147,A heavy fine was imposed on the violating party.,Negative,The court ruled that the violation was sufficiently serious to justify a fine.,None,86.91,1.5
+148,The court found the company guilty of fraud.,Neutral,The court found the company guilty of fraud.,None,85.96,1.4
+149,A contract was signed for mutual legal cooperation.,Positive,A contract was signed for mutual legal cooperation.,contract,88.63,1.35
+150,The judge reviewed the evidence submitted.,Neutral,The judge decided the case.,evidence,94.32,1.35
+151,The judge dismissed the defendant's appeal.,Neutral,The judge dismissed the defendant's appeal.,defendant,90.63,2.32
+152,The court found the company guilty of fraud.,Negative,The court found the company guilty of fraud.,None,94.76,1.31
+153,Both parties submitted their affidavits as required.,Neutral,Text: Both parties submitted their affidavits as required.,None,96.03,1.6
+154,Both parties submitted their affidavits as required.,Neutral,Both parties submitted their affidavits as required.,None,97.35,1.61
+155,The judge praised the cooperation between the disputing companies.,Positive,The judge praised the cooperation between the disputing companies.,None,86.45,2.5
+156,The defendant was sentenced to ten years in prison.,Negative,The defendant was sentenced to ten years in prison.,defendant,94.96,1.43
+157,A heavy fine was imposed on the violating party.,Positive,A heavy fine was imposed on the violating party.,None,93.88,2.29
+158,A successful settlement was reached between both parties.,Positive,A successful settlement was reached between both parties.,settlement,88.61,1.39
+159,The judge dismissed the defendant's appeal.,Neutral,The defendant appealed his conviction.,defendant,90.61,1.4
+160,The defendant was sentenced to ten years in prison.,Negative,The defendant was sentenced to ten years in prison.,defendant,89.91,1.34
+161,The court acknowledged the presence of all involved parties.,Positive,The court acknowledged the presence of all involved parties.,None,92.09,1.36
+162,The hearing was postponed to a later date.,Neutral,The hearing was postponed to a later date.,None,88.98,1.36
+163,The court acknowledged the presence of all involved parties.,Neutral,The court acknowledged the presence of all involved parties.,None,89.52,1.34
+164,The defendant was acquitted of all charges.,Positive,The defendant was acquitted of all charges.,defendant,86.6,1.4
+165,The judge dismissed the defendant's appeal.,Neutral,The defendant appealed the conviction.,defendant,97.76,1.41
+166,The judge praised the cooperation between the disputing companies.,Positive,The judge praised the cooperation between the disputing companies.,None,91.55,1.47
+167,The judge reviewed the evidence submitted.,Neutral,The judge gave the verdict.,evidence,93.09,1.32
+168,The court acknowledged the presence of all involved parties.,Positive,The court ruled against the defendant.,None,87.47,2.29
+169,The lawsuit alleged serious contractual breaches.,Neutral,The lawsuit alleged serious contractual breaches.,None,87.95,1.38
+170,The court acknowledged the presence of all involved parties.,Neutral,The court acknowledged the presence of all involved parties.,None,97.1,1.41
+171,The court ruled in favor of the defendant with compensation granted.,Positive,The court ruled in favor of the defendant with compensation granted.,defendant,97.28,2.33
+172,A heavy fine was imposed on the violating party.,Positive,The court ruled that the court had jurisdiction to hear the case because it was the first instance of the violation.,None,88.38,1.52
+173,The lawsuit alleged serious contractual breaches.,Neutral,The lawsuit alleged serious contractual breaches.,None,92.18,2.27
+174,The court acknowledged the presence of all involved parties.,Neutral,The court acknowledged the presence of all involved parties.,None,95.1,1.44
+175,The judge reviewed the evidence submitted.,Neutral,The judge ruled in favor of the plaintiff.,evidence,95.73,1.58
+176,A heavy fine was imposed on the violating party.,Positive,A heavy fine was imposed on the violating party.,None,86.02,1.44
+177,The court found the company guilty of fraud.,Negative,The court found the company guilty of fraud.,None,89.91,1.29
+178,The judge dismissed the defendant's appeal.,Neutral,The defendant was convicted.,defendant,93.66,2.22
+179,Both parties submitted their affidavits as required.,Neutral,Both parties submitted their affidavits as required.,None,89.42,1.49
+180,The judge praised the cooperation between the disputing companies.,Positive,A judge has dismissed the lawsuit of two companies suing each other for patent infringement.,None,86.6,1.65
+181,The hearing was postponed to a later date.,Neutral,The hearing was postponed to a later date.,None,89.03,1.43
+182,A heavy fine was imposed on the violating party.,Negative,A heavy fine was imposed on the violating party.,None,88.06,1.56
+183,The defendant was sentenced to ten years in prison.,Negative,The defendant was sentenced to ten years in prison.,defendant,96.51,1.43
+184,The defendant was acquitted of all charges.,Positive,The defendant was acquitted of all charges.,defendant,97.42,1.38
+185,A contract was signed for mutual legal cooperation.,Positive,The contract was signed in the judicial district of the city of New York.,contract,92.66,1.46
+186,The court ruled in favor of the defendant with compensation granted.,Neutral,The defendant sued the plaintiff for damages.,defendant,84.21,1.4
+187,Both parties submitted their affidavits as required.,Positive,The plaintiffs' counsel had a hearing on the motion for summary judgment.,None,88.06,1.43
+188,The court found the company guilty of fraud.,Negative,The court found the company guilty of fraud.,None,96.52,1.26
+189,Both parties submitted their affidavits as required.,Neutral,Both parties submitted their affidavits as required.,None,94.87,1.41
+190,The judge dismissed the defendant's appeal.,Negative,The appellate court dismissed the defendant's appeal.,defendant,87.72,1.45
+191,The defendant was sentenced to ten years in prison.,Neutral,The defendant was sentenced to ten years in prison.,defendant,92.34,1.44
+192,A heavy fine was imposed on the violating party.,Positive,The plaintiff was the owner of the land that was allegedly infringed.,None,95.69,1.47
+193,The lawsuit alleged serious contractual breaches.,Negative,The lawsuit alleged serious contractual breaches.,None,84.98,1.35
+194,The defendant was acquitted of all charges.,Positive,The defendant was acquitted of all charges.,defendant,89.69,2.35
+195,The defendant was acquitted of all charges.,Positive,The defendant was acquitted of all charges.,defendant,84.15,1.44
+196,A successful settlement was reached between both parties.,Positive,An appeals court ruled in favor of the plaintiffs.,settlement,84.73,1.41
+197,The judge dismissed the defendant's appeal.,Negative,The judge dismissed the defendant's appeal.,defendant,94.45,1.33
+198,The hearing was postponed to a later date.,Neutral,The legal case was postponed to a later date.,None,92.43,1.42
+199,The hearing was postponed to a later date.,Negative,The hearing was postponed to a later date.,None,88.09,2.32
+200,The court ruled in favor of the defendant with compensation granted.,Positive,The court ruled in favor of the defendant with compensation granted.,defendant,97.41,1.38

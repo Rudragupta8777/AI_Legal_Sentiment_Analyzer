@@ -1,0 +1,5 @@
+Text:
+The court ruled in favor of the defendant with compensation granted.
+
+Summary:
+The defendant sued the plaintiff, claiming that he had been injured in a motorcycle accident.

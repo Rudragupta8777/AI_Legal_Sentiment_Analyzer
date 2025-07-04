@@ -1,0 +1,5 @@
+Text:
+The judge reviewed the evidence submitted.
+
+Summary:
+The judge found the defendant guilty.

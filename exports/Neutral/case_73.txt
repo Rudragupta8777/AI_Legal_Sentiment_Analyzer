@@ -1,0 +1,5 @@
+Text:
+The judge reviewed the evidence submitted.
+
+Summary:
+The judge ruled in favor of the plaintiff.
